@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://germanosorio.com/sitemap.xml
